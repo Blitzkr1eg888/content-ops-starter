@@ -95,7 +95,7 @@ sections:
           Speed matters. We build systems that respond to new leads in real
           time, increasing engagement and conversion before they go cold.
         image:
-          url: /images/icon2.svg
+          url: /images/Benefit 2.png
           altText: Featured icon two
           elementId: ''
           type: ImageBlock
