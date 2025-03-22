@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 10+ Hours
-        subtitle: Numbers Done
+        subtitle: Saved per week
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
