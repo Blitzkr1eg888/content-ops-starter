@@ -91,10 +91,9 @@ sections:
               borderRadius: x-large
       - title: 2x
         subtitle: Lead Conversion with Instant Follow-Ups
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Speed matters. We build systems that respond to new leads in real
+          time, increasing engagement and conversion before they go cold.
         image:
           url: /images/icon2.svg
           altText: Featured icon two
