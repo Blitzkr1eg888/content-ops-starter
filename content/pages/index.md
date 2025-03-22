@@ -115,7 +115,7 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: 90%
-        subtitle: Faster
+        subtitle: Reduction on Human Error
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
