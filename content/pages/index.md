@@ -62,7 +62,7 @@ sections:
     items:
       - type: FeaturedItem
         title: 10+
-        subtitle: Saved per week
+        subtitle: Hours Per Week on Manual Tasks
         text: >
           From follow-up emails to lead data entry, we automate your repetitive
           workflows so you can focus on high-impact work—like closing deals or
