@@ -120,7 +120,7 @@ sections:
           bookings, lost info. Our automations reduce slip-ups and keep your
           operations smooth and consistent.
         image:
-          url: /images/icon3.svg
+          url: /images/Benefit 3.png
           altText: Featured icon three
           elementId: ''
           type: ImageBlock
