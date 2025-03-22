@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Why ULTRILIFE?
+      text: Automation like no other
       color: text-dark
       styles:
         self:
