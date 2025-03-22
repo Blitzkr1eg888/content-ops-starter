@@ -61,7 +61,7 @@ sections:
     subtitle: Subtitle goes here
     items:
       - type: FeaturedItem
-        title: 10+ Hours
+        title: 10+
         subtitle: Saved per week
         text: >
           From follow-up emails to lead data entry, we automate your repetitive
