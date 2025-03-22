@@ -116,10 +116,10 @@ sections:
         type: FeaturedItem
       - title: 90%
         subtitle: Reduction on Human Error
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          Manual processes leave room for mistakes—missed emails, double
+          bookings, lost info. Our automations reduce slip-ups and keep your
+          operations smooth and consistent.
         image:
           url: /images/icon3.svg
           altText: Featured icon three
