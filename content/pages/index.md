@@ -63,10 +63,10 @@ sections:
       - type: FeaturedItem
         title: 10+ Hours
         subtitle: Saved per week
-        text: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
-          explicabo.
+        text: >
+          From follow-up emails to lead data entry, we automate your repetitive
+          workflows so you can focus on high-impact work—like closing deals or
+          building relationships.
         actions: []
         elementId: null
         colors: bg-neutralAlt-fg-dark
