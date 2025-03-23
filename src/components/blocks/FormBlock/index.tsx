@@ -21,7 +21,8 @@ function NetlifyFormShim() {
                 <option>101+ people</option>
             </select>
         </form>
-
+        )}
+        
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
     const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
