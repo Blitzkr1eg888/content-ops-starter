@@ -19,7 +19,7 @@ sections:
 
     actions:
       - type: Button
-        label: See open positions
+        label: Back to Home
         url: /
         icon: arrowRight
         iconPosition: right
