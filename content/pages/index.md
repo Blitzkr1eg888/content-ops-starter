@@ -228,7 +228,7 @@ sections:
       and schedule a call—without you lifting a finger.
     actions:
       - type: Button
-        label: Get started
+        label: Book a free demo
         url: /
         icon: arrowRight
         iconPosition: right
