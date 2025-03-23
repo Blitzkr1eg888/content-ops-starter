@@ -21,7 +21,8 @@ function NetlifyFormShim() {
                 <option>101+ people</option>
             </select>
         </form>
-        )}
+        );
+    }
         
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
@@ -33,6 +34,7 @@ export default function FormBlock(props) {
 
 
     return (
+        <>
        <NetlifyFormShim />
     
         <form
