@@ -528,7 +528,7 @@ sections:
       type: TitleBlock
       text: Book a Free Demo Call
       color: text-dark
-    subtitle: Section with a form subtitle
+    subtitle: Let’s find out what you can automate
     text: |-
       Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
       Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
