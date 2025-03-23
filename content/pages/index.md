@@ -186,11 +186,12 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: This is a subtitle
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >
+      Manual work is slowing you down. Without automation, leads slip through
+      the cracks, hours are wasted on repetitive admin, and your team spends
+      more time managing tools than growing the business. ULTRILIFE replaces the
+      mess with streamlined systems that save time, reduce errors, and let you
+      focus on what actually moves the needle.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
