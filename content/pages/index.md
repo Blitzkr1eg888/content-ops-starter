@@ -258,7 +258,7 @@ sections:
       text: Consistent Marketing Without the Daily Grind
       color: text-dark
       type: TitleBlock
-    subtitle: Be in good company
+    subtitle: Automate your marketing
     text: >
       A service that provides advice and guidance to startups and small
       businesses.
