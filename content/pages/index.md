@@ -189,9 +189,7 @@ sections:
     text: >
       Manual work is slowing you down. Without automation, leads slip through
       the cracks, hours are wasted on repetitive admin, and your team spends
-      more time managing tools than growing the business. ULTRILIFE replaces the
-      mess with streamlined systems that save time, reduce errors, and let you
-      focus on what actually moves the needle.
+      more time managing tools than growing the business.
     media:
       title: Title of the video
       url: /images/placeholder-video.mp4
