@@ -557,7 +557,7 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: name
           hideLabel: true
           placeholder: Your name
           isRequired: true
