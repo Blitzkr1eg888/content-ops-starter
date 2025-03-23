@@ -404,8 +404,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design can be art. Design can be aesthetics. Design is so simple,
-          that's why it is so complicated."
+          "ULTRILIFE set up an AI chat assistant on our site that books intro
+          calls, answers common questions, and filters out time-wasters. It’s
+          like having a 24/7 pre-sales team for a fraction of the cost."
         tagline: Testimonial 5
         subtitle: 'Jane Walters, Company'
         text: >-
