@@ -563,8 +563,8 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Company name
-          label: Company Name
+          name: Company-name
+          label: company-name
           hideLabel: true
           placeholder: Company Name
           isRequired: true
@@ -577,8 +577,8 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Phone
-          label: Phone
+          name: phone
+          label: phone
           hideLabel: true
           placeholder: Phone number
           isRequired: true
