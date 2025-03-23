@@ -545,7 +545,7 @@ sections:
       We’ll get back to you within 1–2 business days.
 
 
-      **Email:** [contact@ultrilife.com]()
+      **Email:** [contact@ultrilife.co]()
     media:
       fields:
         - name: name
