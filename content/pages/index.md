@@ -4,7 +4,7 @@ slug: /
 sections:
   - type: GenericSection
     title:
-      text: Automate Your Business. Grow Without the Overwhelm.
+      text: Reclaim Your Time. Refocus on What Matters.
       color: text-dark
       type: TitleBlock
     subtitle: ''
