@@ -10,7 +10,16 @@ export default function FormBlock(props) {
     const { fields = [], elementId, submitButton, className, styles = {}, 'data-sb-field-path': fieldPath } = props;
 
     if (fields.length === 0) {
-        return null;
+        return (
+             <>
+                {/* Hidden dummy form to allow Netlify to detect this form at build time */}
+                <form name="demo-call" data-netlify="true" hidden>
+                    <input type="text" name="name" />
+                    <input type="email" name="email" />
+                    <textarea name="message"></textarea>
+                </form>
+            </>
+        );
     }
 
 
