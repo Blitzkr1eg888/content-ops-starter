@@ -474,8 +474,9 @@ sections:
       - title: Marketing on Autopilot
         tagline: ''
         subtitle: Stay visible without being hands-on
-        text: |
-          Follow the tutorial to build your first awesome Netlify Create site.
+        text: >
+          Schedule content, send follow-ups, and run email campaigns—all powered
+          by workflows that work while you sleep.
         image:
           url: /images/abstract-feature2.svg
           altText: Placeholder image
