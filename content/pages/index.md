@@ -473,7 +473,7 @@ sections:
         type: FeaturedItem
       - title: Marketing on Autopilot
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: Stay visible without being hands-on
         text: |
           Follow the tutorial to build your first awesome Netlify Create site.
         image:
