@@ -581,69 +581,6 @@ sections:
       label: Contact Us
       color: text-primary
     colors: bg-light-fg-dark
-  - title:
-      text: Got a question?
-      color: text-dark
-      type: TitleBlock
-    subtitle: ''
-    text: >
-      For general enquiries, partnerships, or support, please fill out the form
-      below or email us directly.
-
-
-      We’ll get back to you within 1–2 business days.
-
-
-      **Email:** [contact@ultrilife.co]()
-    media:
-      fields:
-        - name: name
-          label: Name
-          hideLabel: true
-          placeholder: Your name
-          isRequired: true
-          width: full
-          type: TextFormControl
-        - name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
-          type: EmailFormControl
-        - name: message
-          label: Message
-          hideLabel: true
-          placeholder: Brief description of your business
-          width: full
-          type: TextareaFormControl
-      elementId: contact-form
-      styles:
-        self:
-          padding:
-            - pt-6
-            - pb-6
-            - pl-6
-            - pr-6
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: FormBlock
-      submitButton:
-        type: SubmitButtonFormControl
-        label: Submit
-        showIcon: false
-        icon: arrowRight
-        iconPosition: right
-        style: primary
-        elementId: null
-    badge:
-      label: Contact Us
-      color: text-primary
-      type: Badge
-    colors: bg-light-fg-dark
-    type: GenericSection
 seo:
   metaTitle: Home - Demo site
   metaDescription: This demo site is built with Netlify Create.
