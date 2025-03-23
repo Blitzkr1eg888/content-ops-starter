@@ -529,11 +529,28 @@ sections:
       text: Book a Free Demo Call
       color: text-dark
     subtitle: Let’s find out what you can automate
-    text: |-
-      Aenean eros ipsum, interdum quis dignissim non, sollicitudin vitae nisl.
-      Aenean vel aliquet elit, at blandit ipsum. Sed eleifend felis sit amet
-      erat molestie, hendrerit malesuada justo ultrices. Nunc volutpat at erat
-      vitae interdum. Ut nec massa eget lorem blandit condimentum et at risus.
+    text: >+
+      Before we talk about building anything, we start with a simple call. In 30
+      minutes, we’ll walk through how your business runs today, identify
+      time-wasting tasks, and show you where automation or AI can save you hours
+      and help you grow faster.
+
+
+      This isn’t a sales pitch—it’s a hands-on workflow audit designed to give
+      you real value, whether or not we work together.
+
+
+      **What you'll get:**
+
+
+      *   A walkthrough of your current process
+
+
+      *   A quick automation game plan tailored to your goals
+
+
+      *   Honest advice on where tech *won’t* help (and what to do instead)
+
     actions: []
     media:
       type: FormBlock
