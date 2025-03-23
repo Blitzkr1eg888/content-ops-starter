@@ -377,8 +377,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          “A designer knows he has achieved perfection not when there is nothing
-          left to add, but when there is nothing left to take away.”
+          "I had no idea how much of my sales process could be automated. From
+          email follow-ups to invoicing, everything now flows between our tools
+          seamlessly. I only wish we did this sooner."
         tagline: Testimonial 3
         subtitle: 'Maria Walters, Company'
         text: >-
