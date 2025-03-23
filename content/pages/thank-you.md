@@ -14,8 +14,8 @@ sections:
     text: >+
       We’ve received your message and will get back to you within 1–2 business
       days. If your inquiry is urgent or you'd like to provide more details in
-      the meantime, feel free to reach out to us directly at
-      [contact@ultrilife.co](contact@ultrilife.co).
+      the meantime, feel free to reach out to us directly at <a
+      href="mailto:contact\@ultrilife.co">contact\@ultrilife.co</a>.
 
     actions:
       - type: Button
