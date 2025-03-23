@@ -584,6 +584,7 @@ sections:
           options:
             - Just me (solo operator / freelancer)
             - 2–5 people
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
