@@ -258,7 +258,7 @@ sections:
       text: Consistent Marketing Without the Daily Grind
       color: text-dark
       type: TitleBlock
-    subtitle: Automate your marketing
+    subtitle: ''
     text: >
       You know marketing matters—but showing up every day takes time. ULTRILIFE
       helps you automate content scheduling, client onboarding sequences, and
