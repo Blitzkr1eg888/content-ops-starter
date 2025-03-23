@@ -228,7 +228,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Social Media Management
+      text: Never Miss a Lead Again
       color: text-dark
     subtitle: Increase your reach
     text: >
