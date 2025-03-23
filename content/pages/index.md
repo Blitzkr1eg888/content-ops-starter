@@ -497,7 +497,7 @@ sections:
         type: FeaturedItem
       - title: Admin Simplified
         tagline: ''
-        subtitle: This is the item subtitle
+        subtitle: 'Less manual work, more clarity'
         text: >
           Learn from the tutorial and build your first awesome Netlify Create
           site.
