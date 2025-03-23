@@ -499,8 +499,8 @@ sections:
         tagline: ''
         subtitle: 'Less manual work, more clarity'
         text: >
-          Learn from the tutorial and build your first awesome Netlify Create
-          site.
+          Sync your tools, sort your inbox, and update records in real time—so
+          nothing slips through the cracks.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder image
