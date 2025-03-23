@@ -256,7 +256,7 @@ sections:
       email drip campaigns.
     actions:
       - label: Book a free demo
-        url: /
+        url: '#demo-call'
         icon: arrowRight
         iconPosition: right
         style: secondary
