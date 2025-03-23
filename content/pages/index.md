@@ -58,7 +58,10 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: Subtitle goes here
+    subtitle: >-
+      Ultrilife makes it simple for anyone to automate workflow. Just sit back,
+      let the AI do all the hard works while you focus on the most important
+      things that grow your business
     items:
       - type: FeaturedItem
         title: 10+
