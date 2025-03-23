@@ -353,7 +353,7 @@ sections:
           "I used to spend half my week managing client emails, scheduling, and
           reminders. ULTRILIFE built an automated system that handles all of
           that. I’m finally spending more time on the actual work I love."
-        tagline: Testimonial 3
+        tagline: Testimonial 2
         subtitle: 'Maria Walters, Company'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
