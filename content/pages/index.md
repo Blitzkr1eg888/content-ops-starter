@@ -562,11 +562,11 @@ sections:
           placeholder: Your name
           isRequired: true
           width: full
-        - type: EmailFormControl
-          name: Company
-          label: Company
+        - type: TextFormControl
+          name: Company name
+          label: Name
           hideLabel: true
-          placeholder: Your company name
+          placeholder: Your name
           isRequired: true
           width: full
         - type: EmailFormControl
