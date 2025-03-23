@@ -576,11 +576,12 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: TextareaFormControl
-          name: message
-          label: Message
+        - type: EmailFormControl
+          name: email
+          label: Email
           hideLabel: true
-          placeholder: Your message
+          placeholder: Your email
+          isRequired: true
           width: full
         - type: SelectFormControl
           name: company-size
