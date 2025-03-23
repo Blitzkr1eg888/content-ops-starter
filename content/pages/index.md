@@ -327,7 +327,7 @@ sections:
           every inquiry gets an instant, personalised reply and books straight
           into our calendar. We’ve seen a clear uptick in conversions."
         tagline: ''
-        subtitle: 'Sarah, Real Estate Consultant'
+        subtitle: 'Sarah L, Real Estate Consultant'
         text: ''
         actions: []
         colors: bg-neutralAlt-fg-dark
