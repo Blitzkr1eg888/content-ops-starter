@@ -47,7 +47,7 @@
     "secondaryLinks": [
         {
             "label": "Book a Free Domo",
-            "url": "/demo-call",
+            "url": "#demo-call",
             "icon": "arrowRight",
             "iconPosition": "right",
             "style": "primary",
