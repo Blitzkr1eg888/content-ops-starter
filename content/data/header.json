@@ -16,7 +16,7 @@
             "type": "Link",
             "label": "Home",
             "altText": "",
-            "url": "www.ultrilife.co",
+            "url": "/index",
             "showIcon": false,
             "icon": "arrowRight",
             "iconPosition": "right",
