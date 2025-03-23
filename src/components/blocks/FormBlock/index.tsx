@@ -10,7 +10,7 @@ function NetlifyFormShim() {
     return (
         <form name="demo-call" data-netlify="true" hidden>
             <input type="text" name="name" />
-            <input type="text" name="Company-name" />
+            <input type="text" name="company-name" />
             <input type="email" name="email" />
             <input type="text" name="phone" />
             <select name="company-size">
@@ -83,5 +83,6 @@ export default function FormBlock(props) {
                 </div>
             )}
         </form>
+        </>
     );
 }
