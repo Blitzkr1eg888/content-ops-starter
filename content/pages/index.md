@@ -408,7 +408,7 @@ sections:
           calls, answers common questions, and filters out time-wasters. It’s
           like having a 24/7 pre-sales team for a fraction of the cost."
         tagline: Testimonial 4
-        subtitle: 'Jane Walters, Company'
+        subtitle: 'Leo R., SaaS Founder'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
