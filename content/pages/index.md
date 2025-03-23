@@ -130,7 +130,7 @@ sections:
             flexDirection: row
         type: FeaturedItem
     actions:
-      - label: Get started
+      - label: Book a free demo
         altText: ''
         url: '#damo-call'
         showIcon: false
