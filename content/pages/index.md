@@ -230,7 +230,7 @@ sections:
       type: TitleBlock
       text: Never Miss a Lead Again
       color: text-dark
-    subtitle: Optimise your lead conversion
+    subtitle: ''
     text: >
       When a potential client fills out your form or sends a message, every
       minute counts. We set up systems that instantly respond, qualify the lead,
