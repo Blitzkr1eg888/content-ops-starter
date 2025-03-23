@@ -563,7 +563,7 @@ sections:
               - pt-6
               - pb-10
               - pl-6
-              - pr-2
+              - pr-6
             borderRadius: large
     colors: bg-light-fg-dark
     styles:
