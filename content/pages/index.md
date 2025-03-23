@@ -132,7 +132,7 @@ sections:
     actions:
       - label: Get started
         altText: ''
-        url: /
+        url: '#damo-call'
         showIcon: false
         icon: arrowRight
         iconPosition: right
