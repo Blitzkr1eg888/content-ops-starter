@@ -260,8 +260,9 @@ sections:
       type: TitleBlock
     subtitle: Automate your marketing
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      You know marketing matters—but showing up every day takes time. ULTRILIFE
+      helps you automate content scheduling, client onboarding sequences, and
+      email drip campaigns.
     actions:
       - label: Get started
         url: /
