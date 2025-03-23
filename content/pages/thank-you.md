@@ -10,7 +10,7 @@ sections:
       styles:
         self:
           textAlign: center
-    subtitle: Section subtitle
+    subtitle: ''
     text: >+
       We’ve received your message and will get back to you within 1–2 business
       days. If your inquiry is urgent or you'd like to provide more details in
