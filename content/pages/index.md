@@ -449,7 +449,7 @@ sections:
     items:
       - title: Smart Lead Response
         tagline: This is the tagline
-        subtitle: This is the item subtitle
+        subtitle: Never miss an opportunity again
         text: |
           Follow the tutorial to build your first Netlify Create site.
         image:
