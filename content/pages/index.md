@@ -354,7 +354,7 @@ sections:
           reminders. ULTRILIFE built an automated system that handles all of
           that. I’m finally spending more time on the actual work I love."
         tagline: Testimonial 2
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Amanda C, Business Coach'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
