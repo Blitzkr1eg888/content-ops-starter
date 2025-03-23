@@ -285,7 +285,7 @@ sections:
         flexDirection: row-reverse
     type: GenericSection
   - title:
-      text: Social Media Management
+      text: Cut the Admin. Keep the Control.
       color: text-dark
       type: TitleBlock
     subtitle: Increase your reach
