@@ -557,13 +557,13 @@ sections:
       fields:
         - type: TextFormControl
           name: name
-          label: Name
+          label: name
           hideLabel: true
           placeholder: Your name
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Company-name
+          name: company-name
           label: company-name
           hideLabel: true
           placeholder: Company Name
@@ -571,7 +571,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: email
-          label: Email
+          label: email
           hideLabel: true
           placeholder: Your email
           isRequired: true
