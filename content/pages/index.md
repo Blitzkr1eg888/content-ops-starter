@@ -255,7 +255,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Business Consulting
+      text: Consistent Marketing Without the Daily Grind
       color: text-dark
       type: TitleBlock
     subtitle: Be in good company
