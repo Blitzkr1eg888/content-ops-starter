@@ -578,7 +578,7 @@ sections:
           width: full
         - type: TextFormControl
           name: Phone
-          label: Phone
+          label: phone
           hideLabel: true
           placeholder: Phone number
           isRequired: true
