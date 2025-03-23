@@ -59,9 +59,8 @@ sections:
           textAlign: center
       type: TitleBlock
     subtitle: >-
-      Ultrilife makes it simple for anyone to automate workflow. Just sit back,
-      let the AI do all the hard works while you focus on the most important
-      things that grow your business
+      ULTRILIFE makes workflow automation effortless. Let AI handle the
+      busywork—so you can stay focused on what truly grows your business.
     items:
       - type: FeaturedItem
         title: 10+
