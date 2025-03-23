@@ -255,7 +255,7 @@ sections:
       helps you automate content scheduling, client onboarding sequences, and
       email drip campaigns.
     actions:
-      - label: Get started
+      - label: Book a free demo
         url: /
         icon: arrowRight
         iconPosition: right
