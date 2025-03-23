@@ -570,7 +570,7 @@ sections:
           isRequired: true
           width: full
         - type: EmailFormControl
-          name: email
+          name: Company
           label: Company
           hideLabel: true
           placeholder: Your company name
