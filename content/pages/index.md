@@ -185,7 +185,7 @@ sections:
         self:
           textAlign: center
       type: TitleBlock
-    subtitle: This is a subtitle
+    subtitle: ''
     text: >
       Manual work is slowing you down. Without automation, leads slip through
       the cracks, hours are wasted on repetitive admin, and your team spends
