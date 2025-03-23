@@ -344,9 +344,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Josh helped us cut our lead response time from hours to seconds. Now,
-          every inquiry gets an instant, personalised reply and books straight
-          into our calendar. We’ve seen a clear uptick in conversions."
+          "We cut our lead response time from hours to seconds. Now, every
+          inquiry gets an instant, personalised reply and books straight into
+          our calendar. We’ve seen a clear uptick in conversions."
         tagline: Testimonial 2
         subtitle: 'Sarah L, Real Estate Consultant'
         text: ''
