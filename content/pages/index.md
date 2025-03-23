@@ -255,7 +255,7 @@ sections:
       self:
         alignItems: center
   - title:
-      text: Consistent Marketing Without the Daily Grind
+      text: Marketing Without the Daily Grind
       color: text-dark
       type: TitleBlock
     subtitle: ''
