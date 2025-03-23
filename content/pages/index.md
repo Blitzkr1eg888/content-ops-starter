@@ -587,7 +587,7 @@ sections:
             - 16–50 people
             - 51–100 people
             - 101+ people
-          isRequired: false
+          isRequired: true
           width: full
         - type: TextareaFormControl
           name: message
