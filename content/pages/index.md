@@ -581,7 +581,8 @@ sections:
           label: Company size
           hideLabel: false
           defaultValue: Please choose...
-          options: []
+          options:
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
