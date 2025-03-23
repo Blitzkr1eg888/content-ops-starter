@@ -578,7 +578,7 @@ sections:
           width: full
         - type: EmailFormControl
           name: email
-          label: Email
+          label: Phone
           hideLabel: true
           placeholder: Your email
           isRequired: true
