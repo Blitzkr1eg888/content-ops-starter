@@ -323,27 +323,6 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          "Josh helped us cut our lead response time from hours to seconds. Now,
-          every inquiry gets an instant, personalised reply and books straight
-          into our calendar. We’ve seen a clear uptick in conversions."
-        tagline: ''
-        subtitle: 'Sarah L, Real Estate Consultant'
-        text: ''
-        actions: []
-        colors: bg-neutralAlt-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-9
-              - pb-9
-              - pl-9
-              - pr-9
-            textAlign: left
-            borderRadius: large
-            flexDirection: row
-            justifyContent: center
-        type: FeaturedItem
-      - title: >-
           "We cut our lead response time from hours to seconds. Now, every
           inquiry gets an instant, personalised reply and books straight into
           our calendar. We’ve seen a clear uptick in conversions."
