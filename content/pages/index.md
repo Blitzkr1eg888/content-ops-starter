@@ -9,8 +9,8 @@ sections:
       type: TitleBlock
     subtitle: ''
     text: >
-      We build custom automations that help you streamline sales, marketing, and
-      admin—so you can scale with less stress
+      We build AI-powered automations that help you streamline sales, marketing,
+      and admin—so you can scale with less stress
     actions:
       - label: Get started
         altText: ''
