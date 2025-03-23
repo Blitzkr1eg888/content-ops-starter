@@ -344,8 +344,9 @@ sections:
             justifyContent: center
         type: FeaturedItem
       - title: >-
-          "Design is a plan for arranging elements in such a way as best to
-          accomplish a particular purpose."
+          "Josh helped us cut our lead response time from hours to seconds. Now,
+          every inquiry gets an instant, personalised reply and books straight
+          into our calendar. We’ve seen a clear uptick in conversions."
         tagline: Testimonial 2
         subtitle: 'Sarah L, Real Estate Consultant'
         text: >-
