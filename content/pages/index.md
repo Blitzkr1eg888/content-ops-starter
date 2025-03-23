@@ -323,9 +323,9 @@ sections:
     subtitle: What our customers say about us
     items:
       - title: >-
-          "We cut our lead response time from hours to seconds. Now, every
-          inquiry gets an instant, personalised reply and books straight into
-          our calendar. We’ve seen a clear uptick in conversions."
+          "Josh helped cut our lead response time from hours to seconds. Now,
+          every inquiry gets an instant, personalised reply and books straight
+          into our calendar. We’ve seen a clear uptick in conversions."
         tagline: Testimonial 1
         subtitle: 'Sarah L, Real Estate Consultant'
         text: ''
