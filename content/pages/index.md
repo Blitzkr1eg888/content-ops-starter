@@ -576,6 +576,13 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
+        - type: EmailFormControl
+          name: email
+          label: Email
+          hideLabel: true
+          placeholder: Your email
+          isRequired: true
+          width: full
         - type: SelectFormControl
           name: company-size
           label: Company size
@@ -587,13 +594,6 @@ sections:
             - 16–50 people
             - 51–100 people
             - 101+ people
-          isRequired: true
-          width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
           isRequired: true
           width: full
       submitButton:
