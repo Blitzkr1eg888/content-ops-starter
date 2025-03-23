@@ -351,7 +351,6 @@ sections:
         subtitle: 'Sarah L, Real Estate Consultant'
         text: ''
         image:
-          url: /images/person-placeholder-light.png
           altText: John Doe
           styles:
             self:
