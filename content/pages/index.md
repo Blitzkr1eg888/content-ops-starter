@@ -580,7 +580,7 @@ sections:
           name: Phone
           label: Phone
           hideLabel: true
-          placeholder: Your name
+          placeholder: Phone number
           isRequired: true
           width: full
         - type: SelectFormControl
