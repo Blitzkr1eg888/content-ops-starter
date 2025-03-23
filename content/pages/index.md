@@ -229,7 +229,7 @@ sections:
     actions:
       - type: Button
         label: Book a free demo
-        url: /
+        url: '#demo-call'
         icon: arrowRight
         iconPosition: right
         style: secondary
