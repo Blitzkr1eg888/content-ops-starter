@@ -179,7 +179,7 @@ sections:
           - pr-7
     type: DividerSection
   - title:
-      text: Grow your business 10x faster
+      text: What You're Missing Without Automation
       color: text-dark
       styles:
         self:
