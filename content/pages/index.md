@@ -381,7 +381,7 @@ sections:
           email follow-ups to invoicing, everything now flows between our tools
           seamlessly. I only wish we did this sooner."
         tagline: Testimonial 3
-        subtitle: 'Maria Walters, Company'
+        subtitle: 'Jason M, Digital Marketing Agency Owner'
         text: >-
           Sed ut perspiciatis unde omnis iste natus error sit voluptatem
           accusantium doloremque laudantium, totam rem aperiam, eaque ipsa quae.
