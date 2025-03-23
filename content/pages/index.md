@@ -232,8 +232,9 @@ sections:
       color: text-dark
     subtitle: Increase your reach
     text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+      When a potential client fills out your form or sends a message, every
+      minute counts. We set up systems that instantly respond, qualify the lead,
+      and schedule a call—without you lifting a finger.
     actions:
       - type: Button
         label: Get started
