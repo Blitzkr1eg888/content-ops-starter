@@ -132,7 +132,7 @@ sections:
     actions:
       - label: Book a free demo
         altText: ''
-        url: '#damo-call'
+        url: '#demo-call'
         showIcon: false
         icon: arrowRight
         iconPosition: right
