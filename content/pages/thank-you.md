@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Thank You for Booking a Call with us
       color: text-dark
       styles:
         self:
