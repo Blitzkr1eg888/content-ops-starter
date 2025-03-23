@@ -563,7 +563,7 @@ sections:
           isRequired: true
           width: full
         - type: TextFormControl
-          name: Company-name
+          name: company-name
           label: company-name
           hideLabel: true
           placeholder: Company Name
