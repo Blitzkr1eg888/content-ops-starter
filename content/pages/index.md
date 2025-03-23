@@ -526,7 +526,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: Book a Free Demo Call
+      text: Book a Free Call
       color: text-dark
     subtitle: Let’s find out what you can automate
     text: >+
