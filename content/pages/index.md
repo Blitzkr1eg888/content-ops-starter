@@ -583,6 +583,7 @@ sections:
           defaultValue: Please choose...
           options:
             - Just me (solo operator / freelancer)
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
