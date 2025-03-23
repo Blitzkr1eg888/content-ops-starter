@@ -576,11 +576,11 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: EmailFormControl
+        - type: TextFormControl
           name: Phone
-          label: Phone
+          label: Name
           hideLabel: true
-          placeholder: Your phone number
+          placeholder: Your name
           isRequired: true
           width: full
         - type: SelectFormControl
