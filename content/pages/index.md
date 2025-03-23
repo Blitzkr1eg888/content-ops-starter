@@ -12,7 +12,7 @@ sections:
       We build AI-powered automations that help you streamline sales, marketing,
       and admin—so you can scale with less stress
     actions:
-      - label: Get started
+      - label: Book a free demo
         altText: ''
         url: /
         showIcon: false
