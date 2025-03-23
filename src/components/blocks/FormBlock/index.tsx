@@ -4,25 +4,6 @@ import classNames from 'classnames';
 import { getComponent } from '../../components-registry';
 import { mapStylesToClassNames as mapStyles } from '../../../utils/map-styles-to-class-names';
 import SubmitButtonFormControl from './SubmitButtonFormControl';
-
-// Global Netlify form shim (for build-time detection)
-function NetlifyFormShim() {
-    return (
-        <form name="demo-call" data-netlify="true" hidden>
-            <input type="text" name="name" />
-            <input type="text" name="company-name" />
-            <input type="email" name="email" />
-            <input type="text" name="phone" />
-            <select name="company-size">
-                <option>Just me (solo operator / freelancer)</option>
-                <option>2–5 people</option>
-                <option>16–50 people</option>
-                <option>51-100 people</option>
-                <option>101+ people</option>
-            </select>
-        </form>
-        );
-    }
         
 export default function FormBlock(props) {
     const formRef = React.createRef<HTMLFormElement>();
@@ -35,7 +16,6 @@ export default function FormBlock(props) {
 
     return (
         <>
-       <NetlifyFormShim />
     
         <form
     className={classNames(
