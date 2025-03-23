@@ -52,7 +52,7 @@ sections:
           - pr-16
   - type: FeaturedItemsSection
     title:
-      text: Automation like no other
+      text: Work Less. Grow More.
       color: text-dark
       styles:
         self:
