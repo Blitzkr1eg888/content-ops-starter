@@ -36,7 +36,7 @@ sections:
       elementId: ''
       type: ImageBlock
     badge:
-      label: This is a badge
+      label: More than just an AI
       color: text-primary
       type: Badge
     elementId: ''
