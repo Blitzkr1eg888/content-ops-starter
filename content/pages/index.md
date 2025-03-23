@@ -573,7 +573,7 @@ sections:
           name: email
           label: Email
           hideLabel: true
-          placeholder: Your email
+          placeholder: Your company name
           isRequired: true
           width: full
         - type: SelectFormControl
