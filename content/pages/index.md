@@ -450,8 +450,9 @@ sections:
       - title: Smart Lead Response
         tagline: ''
         subtitle: Never miss an opportunity again
-        text: |
-          Follow the tutorial to build your first Netlify Create site.
+        text: >
+          Automatically reply to new enquiries, qualify leads, and book
+          calls—within seconds, not hours.
         image:
           url: /images/abstract-feature1.svg
           altText: Placeholder Image
