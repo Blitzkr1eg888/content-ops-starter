@@ -11,12 +11,12 @@ sections:
         self:
           textAlign: center
     subtitle: Section subtitle
-    text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+    text: >+
+      We’ve received your message and will get back to you within 1–2 business
+      days. If your inquiry is urgent or you'd like to provide more details in
+      the meantime, feel free to reach out to us directly at
+      [contact@ultrilife.co](contact@ultrilife.co).
+
     actions:
       - type: Button
         label: See open positions
