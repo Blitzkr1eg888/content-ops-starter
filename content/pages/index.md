@@ -536,7 +536,7 @@ sections:
       text: Got a question?
       color: text-dark
       type: TitleBlock
-    subtitle: Section with a form subtitle
+    subtitle: ''
     text: >
       For general enquiries, partnerships, or support, please fill out the form
       below or email us directly.
