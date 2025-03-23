@@ -582,7 +582,7 @@ sections:
           hideLabel: false
           defaultValue: Please choose...
           options:
-            - ''
+            - Just me
           isRequired: false
           width: full
         - type: TextareaFormControl
