@@ -284,7 +284,7 @@ sections:
       A service that helps businesses to manage their social media accounts and
       posts.
     actions:
-      - label: Get started
+      - label: Book a free demo
         url: /
         icon: arrowRight
         iconPosition: right
