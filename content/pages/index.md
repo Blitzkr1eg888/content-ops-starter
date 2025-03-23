@@ -566,7 +566,7 @@ sections:
           name: Company name
           label: Company Name
           hideLabel: true
-          placeholder: Your name
+          placeholder: Company Name
           isRequired: true
           width: full
         - type: EmailFormControl
