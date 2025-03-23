@@ -561,7 +561,7 @@ sections:
         - name: message
           label: Message
           hideLabel: true
-          placeholder: Your message
+          placeholder: Brief description of your business
           width: full
           type: TextareaFormControl
       elementId: contact-form
