@@ -526,7 +526,7 @@ sections:
   - type: PricingSection
     title:
       type: TitleBlock
-      text: Flexible Pricing
+      text: Book a Free Demo Call
       color: text-dark
       styles:
         self:
