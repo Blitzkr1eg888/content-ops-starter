@@ -576,13 +576,6 @@ sections:
           placeholder: Your email
           isRequired: true
           width: full
-        - type: EmailFormControl
-          name: email
-          label: Email
-          hideLabel: true
-          placeholder: Your email
-          isRequired: true
-          width: full
         - type: SelectFormControl
           name: company-size
           label: Company size
