@@ -565,39 +565,6 @@ sections:
               - pl-6
               - pr-6
             borderRadius: large
-      - type: PricingPlan
-        title: Enterprise
-        price: Custom
-        details: per month
-        description: >-
-          Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-          accusantium doloremque laudantium, totam rem aperiam.
-        features:
-          - Feature one
-          - Feature two
-          - Feature three
-          - Feature four
-          - Feature five
-        image:
-          type: ImageBlock
-          url: /images/abstract-feature3.svg
-          altText: Pricing plan 3
-        actions:
-          - type: Button
-            label: Contact us
-            url: /
-            icon: arrowRight
-            iconPosition: right
-            style: secondary
-        colors: bg-neutral-fg-dark
-        styles:
-          self:
-            padding:
-              - pt-6
-              - pb-10
-              - pl-6
-              - pr-6
-            borderRadius: large
     colors: bg-light-fg-dark
     styles:
       self:
