@@ -586,6 +586,7 @@ sections:
             - 2–5 people
             - 16–50 people
             - 51–100 people
+            - ''
           isRequired: false
           width: full
         - type: TextareaFormControl
