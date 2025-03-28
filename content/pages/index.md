@@ -183,7 +183,7 @@ sections:
       more time managing tools than growing the business.
     media:
       title: Title of the video
-      url: 'https://youtu.be/GeUUAv2iNMU'
+      url: ''
       controls: false
       aspectRatio: '16:9'
       styles:
