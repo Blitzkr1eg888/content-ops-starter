@@ -51,8 +51,11 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      ULTRILIFE helps small businesses automate workflows, streamline
+      operations, and build intelligent digital systems that scale. Whether it’s
+      crafting intuitive user interfaces, integrating AI agents, or
+      custom-building software solutions that save time and boost revenue, we
+      bring both technical depth and design empathy to every project.
     actions:
       - type: Button
         label: Get started
