@@ -10,7 +10,7 @@
         "links": [
             {
                 "label": "Home",
-                "altText": "Features page",
+                "altText": "",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
