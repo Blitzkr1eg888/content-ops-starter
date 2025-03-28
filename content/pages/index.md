@@ -430,7 +430,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: What you can achieve
       color: text-primary
       styles:
         self:
