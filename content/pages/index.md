@@ -469,7 +469,7 @@ sections:
           Schedule content, send follow-ups, and run email campaigns—all powered
           by workflows that work while you sleep.
         image:
-          url: /images/abstract-feature2.svg
+          url: /images/Icon 2.png
           altText: Placeholder image
           styles:
             self:
