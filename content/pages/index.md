@@ -291,7 +291,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/3.jpg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-light-fg-dark
