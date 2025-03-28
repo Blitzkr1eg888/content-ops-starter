@@ -86,13 +86,7 @@ sections:
       *   **Partnership, not just service** – We work *with* you, not just *for*
       you.
 
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero2.svg
