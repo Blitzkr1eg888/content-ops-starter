@@ -494,7 +494,7 @@ sections:
           nothing slips through the cracks.
         image:
           url: /images/Icon 3.png
-          altText: Placeholder image
+          altText: ''
           styles:
             self:
               borderRadius: x-large
