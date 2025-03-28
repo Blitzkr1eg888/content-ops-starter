@@ -39,7 +39,7 @@ export default function FormBlock(props) {
     ref={formRef}
     method="POST"
     data-netlify="true"
-    action="/thank-you"
+    action="https://httpbin.org/post"
     data-sb-field-path={fieldPath}
 >
             <div
