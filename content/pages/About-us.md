@@ -5,7 +5,7 @@ sections:
   - type: GenericSection
     title:
       type: TitleBlock
-      text: A team that works closely together
+      text: Built for Impact. Driven by Innovation.
       color: text-dark
       styles:
         self:
