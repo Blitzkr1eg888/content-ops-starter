@@ -115,7 +115,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero3.svg
+      url: /images/About 2.jpg
       altText: Dope design preview
     colors: bg-light-fg-dark
     styles:
