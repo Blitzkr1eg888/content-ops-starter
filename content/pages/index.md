@@ -262,7 +262,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/2.1.jpg
+      url: /images/2.2.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
