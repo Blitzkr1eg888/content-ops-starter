@@ -11,15 +11,7 @@ sections:
         self:
           textAlign: center
     subtitle: about us
-    text: >+
-      Founded in 2019, ULTRILIFE was born out of a simple but powerful idea:
-      small businesses deserve cutting-edge tools that help them grow faster,
-      operate smarter, and connect better with their customers.
-
-
-      Our mission is to optimise the user experience at every touchpoint,
-      turning friction into flow and complexity into clarity.
-
+    text: ''
     actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
