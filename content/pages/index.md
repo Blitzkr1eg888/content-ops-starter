@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/Background 1.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
@@ -62,7 +62,7 @@ sections:
           building relationships.
         actions: []
         elementId: null
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -93,7 +93,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -118,7 +118,7 @@ sections:
           elementId: ''
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-light-fg-dark
         styles:
           self:
             padding:
@@ -183,7 +183,7 @@ sections:
       more time managing tools than growing the business.
     media:
       title: Title of the video
-      url: /images/placeholder-video.mp4
+      url: /‎public/images/Animation_2.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
@@ -235,7 +235,7 @@ sections:
         style: secondary
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/1.jpg
       altText: Fun feature preview
     badge:
       type: Badge
@@ -262,7 +262,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero3.svg
+      url: /images/2.2.jpg
       altText: Dope design preview
       type: ImageBlock
     badge:
@@ -291,7 +291,7 @@ sections:
         style: secondary
         type: Button
     media:
-      url: /images/hero2.svg
+      url: /images/3.jpg
       altText: Fun feature preview
       type: ImageBlock
     colors: bg-light-fg-dark
@@ -327,7 +327,7 @@ sections:
               borderRadius: full
           type: ImageBlock
         actions: []
-        colors: bg-neutralAlt-fg-dark
+        colors: bg-neutral-fg-dark
         styles:
           self:
             padding:
@@ -430,7 +430,7 @@ sections:
       subtitle:
         textAlign: center
   - title:
-      text: List of features here
+      text: What you can achieve
       color: text-primary
       styles:
         self:
@@ -445,8 +445,8 @@ sections:
           Automatically reply to new enquiries, qualify leads, and book
           calls—within seconds, not hours.
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder Image
+          url: /images/Icon 1.png
+          altText: ''
           styles:
             self:
               borderRadius: x-large
@@ -469,8 +469,8 @@ sections:
           Schedule content, send follow-ups, and run email campaigns—all powered
           by workflows that work while you sleep.
         image:
-          url: /images/abstract-feature2.svg
-          altText: Placeholder image
+          url: /images/Icon 2.png
+          altText: ''
           styles:
             self:
               borderRadius: x-large
@@ -493,8 +493,8 @@ sections:
           Sync your tools, sort your inbox, and update records in real time—so
           nothing slips through the cracks.
         image:
-          url: /images/abstract-feature1.svg
-          altText: Placeholder image
+          url: /images/Icon 3.png
+          altText: ''
           styles:
             self:
               borderRadius: x-large
