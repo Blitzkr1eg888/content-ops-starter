@@ -50,7 +50,7 @@
             },
             {
                 "label": "About us",
-                "url": "/blog",
+                "url": "/About us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
