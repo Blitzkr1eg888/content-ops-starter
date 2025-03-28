@@ -102,8 +102,10 @@ sections:
       color: text-dark
     subtitle: ''
     text: >
-      A service that provides advice and guidance to startups and small
-      businesses.
+      Since our founding, we've helped businesses across industries—from
+      e-commerce to consulting to brick-and-mortar—increase conversions, reduce
+      costs, and unlock new revenue streams through tailored automation and
+      design-led development.
     actions:
       - type: Button
         label: Get started
