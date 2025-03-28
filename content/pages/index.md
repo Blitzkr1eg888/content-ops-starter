@@ -22,7 +22,7 @@ sections:
         elementId: ''
         type: Button
     media:
-      url: /images/main-hero.svg
+      url: /images/pexels-drew-williams-1285451-2657669.jpg
       altText: Unblock your team boost your time to production preview
       elementId: ''
       type: ImageBlock
