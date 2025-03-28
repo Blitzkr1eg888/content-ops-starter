@@ -493,7 +493,7 @@ sections:
           Sync your tools, sort your inbox, and update records in real time—so
           nothing slips through the cracks.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/Icon 3.png
           altText: Placeholder image
           styles:
             self:
