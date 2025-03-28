@@ -56,13 +56,7 @@ sections:
       crafting intuitive user interfaces, integrating AI agents, or
       custom-building software solutions that save time and boost revenue, we
       bring both technical depth and design empathy to every project.
-    actions:
-      - type: Button
-        label: Get started
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: secondary
+    actions: []
     media:
       type: ImageBlock
       url: /images/hero3.svg
