@@ -446,7 +446,7 @@ sections:
           calls—within seconds, not hours.
         image:
           url: /images/Icon 1.png
-          altText: Placeholder Image
+          altText: ''
           styles:
             self:
               borderRadius: x-large
