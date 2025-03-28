@@ -12,11 +12,9 @@ sections:
           textAlign: center
     subtitle: about us
     text: >
-      There are many variations of passages of Lorem Ipsum available, but the
-      majority have suffered alteration in some form, by injected humour, or
-      randomised words which don't look even slightly believable. If you are
-      going to use a passage of Lorem Ipsum, you need to be sure there isn't
-      anything embarrassing hidden in the middle of text.
+      Founded in **2019**, **ULTRILIFE** was born out of a simple but powerful
+      idea: small businesses deserve cutting-edge tools that help them grow
+      faster, operate smarter, and connect better with their customers.
     actions:
       - type: Button
         label: See open positions
