@@ -89,7 +89,7 @@ sections:
     actions: []
     media:
       type: ImageBlock
-      url: /images/hero2.svg
+      url: /images/About 3.jpg
       altText: Fun feature preview
     colors: bg-light-fg-dark
     styles:
