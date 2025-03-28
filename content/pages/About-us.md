@@ -20,13 +20,7 @@ sections:
       Our mission is to optimise the user experience at every touchpoint,
       turning friction into flow and complexity into clarity.
 
-    actions:
-      - type: Button
-        label: See open positions
-        url: /
-        icon: arrowRight
-        iconPosition: right
-        style: primary
+    actions: []
     colors: bg-neutral-fg-dark
     backgroundImage:
       type: BackgroundImage
