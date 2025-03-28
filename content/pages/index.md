@@ -445,7 +445,7 @@ sections:
           Automatically reply to new enquiries, qualify leads, and book
           calls—within seconds, not hours.
         image:
-          url: /images/abstract-feature1.svg
+          url: /images/user-engagement.png
           altText: Placeholder Image
           styles:
             self:
