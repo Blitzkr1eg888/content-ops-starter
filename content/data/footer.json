@@ -4,13 +4,13 @@
         "altText": "Logo light",
         "type": "ImageBlock"
     },
-    "text": "A description of your brand",
+    "text": "ULTRILIFE Pty Ltd\n",
     "primaryLinks": {
-        "title": "Product",
+        "title": "Company",
         "links": [
             {
-                "label": "Features",
-                "altText": "Features page",
+                "label": "Home",
+                "altText": "",
                 "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
@@ -18,16 +18,8 @@
                 "type": "Link"
             },
             {
-                "label": "Pricing",
-                "url": "/pricing",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "Documentation",
-                "url": "/",
+                "label": "About us",
+                "url": "/About us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
@@ -37,20 +29,20 @@
         "type": "FooterLinksGroup"
     },
     "secondaryLinks": {
-        "title": "Company",
+        "title": "Open hours",
         "links": [
             {
-                "label": "Careers",
-                "altText": "careers page",
-                "url": "/careers",
+                "label": "Home",
+                "altText": "",
+                "url": "/",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
                 "type": "Link"
             },
             {
-                "label": "Blog",
-                "url": "/blog",
+                "label": "About us",
+                "url": "/About us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
