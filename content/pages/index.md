@@ -470,7 +470,7 @@ sections:
           by workflows that work while you sleep.
         image:
           url: /images/Icon 2.png
-          altText: Placeholder image
+          altText: ''
           styles:
             self:
               borderRadius: x-large
