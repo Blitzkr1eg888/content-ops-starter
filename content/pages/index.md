@@ -438,15 +438,15 @@ sections:
       type: TitleBlock
     subtitle: Featured items section subtitle
     items:
-      - title: Smart Lead Response
+      - title: Marketing on Autopilot
         tagline: ''
-        subtitle: Never miss an opportunity again
+        subtitle: Stay visible without being hands-on
         text: >
-          Automatically reply to new enquiries, qualify leads, and book
-          calls—within seconds, not hours.
+          Schedule content, send follow-ups, and run email campaigns—all powered
+          by workflows that work while you sleep.
         image:
-          url: /images/Icon 1.png
-          altText: ''
+          url: /images/Icon 2.png
+          altText: Placeholder image
           styles:
             self:
               borderRadius: x-large
@@ -462,15 +462,15 @@ sections:
             borderRadius: x-large
             flexDirection: col
         type: FeaturedItem
-      - title: Marketing on Autopilot
+      - title: Smart Lead Response
         tagline: ''
-        subtitle: Stay visible without being hands-on
+        subtitle: Never miss an opportunity again
         text: >
-          Schedule content, send follow-ups, and run email campaigns—all powered
-          by workflows that work while you sleep.
+          Automatically reply to new enquiries, qualify leads, and book
+          calls—within seconds, not hours.
         image:
-          url: /images/Icon 2.png
-          altText: Placeholder image
+          url: /images/Icon 1.png
+          altText: ''
           styles:
             self:
               borderRadius: x-large
