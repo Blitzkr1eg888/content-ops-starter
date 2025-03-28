@@ -72,9 +72,20 @@ sections:
       text: Our Values
       color: text-dark
     subtitle: ''
-    text: >
-      A service that helps businesses to manage their social media accounts and
-      posts.
+    text: >+
+      *   **Efficiency is key** – We design systems that just work.
+
+
+      *   **Clarity over complexity** – Simple wins. Always.
+
+
+      *   **People-first thinking** – We optimise for real human users, not just
+      machines.
+
+
+      *   **Partnership, not just service** – We work *with* you, not just *for*
+      you.
+
     actions:
       - type: Button
         label: Get started
