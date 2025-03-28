@@ -19,7 +19,7 @@
             },
             {
                 "label": "About us",
-                "url": "/pricing",
+                "url": "/About us",
                 "icon": "arrowRight",
                 "iconPosition": "right",
                 "style": "secondary",
