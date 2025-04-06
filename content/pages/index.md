@@ -181,26 +181,6 @@ sections:
       Manual work is slowing you down. Without automation, leads slip through
       the cracks, hours are wasted on repetitive admin, and your team spends
       more time managing tools than growing the business.
-    media:
-      title: Title of the video
-      url: /images/Animation_2.mp4
-      controls: false
-      aspectRatio: '16:9'
-      styles:
-        self:
-          padding:
-            - pt-2
-            - pb-2
-            - pl-2
-            - pr-2
-          borderColor: border-dark
-          borderStyle: solid
-          borderWidth: 1
-          borderRadius: large
-      type: VideoBlock
-      autoplay: true
-      loop: true
-      muted: true
     badge:
       label: ''
       color: text-primary
