@@ -77,7 +77,7 @@
     "type": "Footer",
     "secondaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Product",
+        "title": "Contact",
         "links": [
             {
                 "type": "Link",
