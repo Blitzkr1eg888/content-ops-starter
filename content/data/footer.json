@@ -77,7 +77,7 @@
     "type": "Footer",
     "secondaryLinks": {
         "type": "FooterLinksGroup",
-        "title": "Product",
+        "title": "Opening hours",
         "links": [
             {
                 "type": "Link",
