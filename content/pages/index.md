@@ -183,7 +183,7 @@ sections:
       more time managing tools than growing the business.
     media:
       title: Title of the video
-      url: /content-ops-starter/public/images/Animation_2.mp4
+      url: /public/images/Animation_2.mp4
       controls: false
       aspectRatio: '16:9'
       styles:
