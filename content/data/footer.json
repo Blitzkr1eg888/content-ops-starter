@@ -28,29 +28,6 @@
         ],
         "type": "FooterLinksGroup"
     },
-    "secondaryLinks": {
-        "title": "Open hours",
-        "links": [
-            {
-                "label": "Home",
-                "altText": "",
-                "url": "/",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            },
-            {
-                "label": "About us",
-                "url": "/About us",
-                "icon": "arrowRight",
-                "iconPosition": "right",
-                "style": "secondary",
-                "type": "Link"
-            }
-        ],
-        "type": "FooterLinksGroup"
-    },
     "socialLinks": [
         {
             "altText": "GitHub link",
@@ -97,5 +74,33 @@
     ],
     "copyrightText": "Powered by [Netlify](https://www.netlify.com/)\n",
     "colors": "bg-dark-fg-light",
-    "type": "Footer"
+    "type": "Footer",
+    "secondaryLinks": {
+        "type": "FooterLinksGroup",
+        "title": "Contact",
+        "links": [
+            {
+                "type": "Link",
+                "label": "Mon - Sat | 8:00 - 18:00",
+                "altText": "",
+                "url": "",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            },
+            {
+                "type": "Link",
+                "label": "Email: Contact@ULTRILIFE.co",
+                "altText": "",
+                "url": "/maito:Contact@ULTRILIFE.co",
+                "showIcon": false,
+                "icon": "arrowRight",
+                "iconPosition": "right",
+                "style": "secondary",
+                "elementId": ""
+            }
+        ]
+    }
 }
